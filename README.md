@@ -1,2 +1,2 @@
 # qa_example_python
-QA Python project for test form
+Automation QA Python project for test form
